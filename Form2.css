@@ -1,0 +1,29 @@
+
+body{
+    background-color: blueviolet;
+    text-decoration: wavy;
+    text-align: center;
+}
+header{
+    background-color: skyblue;
+    
+}
+main{
+    background-color: rgb(140, 24, 149);
+}
+#heading{
+    color: rgb(251, 15, 208);
+    font-style: normal;
+    text-decoration: white underline;
+}
+#submit{
+    background-color: aqua;
+}
+#reset{
+    background-color: rgb(165, 42, 54);
+    
+}
+#clickme{
+    
+    color: white;
+}
